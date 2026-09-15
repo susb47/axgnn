@@ -116,6 +116,7 @@ Detailed per-dataset run instructions and pre-computed results live inside `Data
 
 Ablation studies confirm that landmark gating, edge-type embeddings, and dual-layer edge-aware convolutions each contribute meaningfully to both accuracy and interpretability.
 
+**Paper**: [Anatomy-Aware Explainable Graph Neural Networks for Human Disease Diagnosis](https://openreview.net/forum?id=vGbxDj1ti1) (ICML 2026)
 ---
 
 ## Citation
