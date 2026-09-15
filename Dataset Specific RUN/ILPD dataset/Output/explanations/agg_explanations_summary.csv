@@ -1,0 +1,7 @@
+group,key,mean_saliency,mean_faithfulness,mean_attention
+node_type,Organ,0.0,0.0,
+node_type,Tissue,0.0,0.0,
+node_type,Symptom,2.8639734955504538e-05,1.575589194544591e-05,
+node_type,Patient,0.0,0.0,
+edge_type,edge_type_1,,,0.13694761991500853
+edge_type,edge_type_4,,,0.11525469720363617
