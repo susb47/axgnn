@@ -1,0 +1,6 @@
+group,key,mean_saliency,mean_faithfulness,mean_attention
+node_type,Organ,0.0,0.0,
+node_type,Image,0.0022963205818086864,0.5592565655708313,
+node_type,Finding,0.0008943732711486519,0.0,
+edge_type,edge_type_0,,,0.5882498145103454
+edge_type,edge_type_1,,,0.7501658439636231

@@ -1,0 +1,5 @@
+group,key,mean_saliency,mean_faithfulness,mean_attention
+node_type,Image,0.19754454816720762,0.044049257040023805,
+node_type,Cell,0.048430193337844686,0.009276874067472818,
+edge_type,edge_type_0,,,0.1588080868124962
+edge_type,edge_type_1,,,0.36310133039951326

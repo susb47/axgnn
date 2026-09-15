@@ -1,0 +1,29 @@
+{
+  "config": {
+    "DATA_PATH": "D:\\Research\\Topics\\www\\Datasets\\malaria\\malaria\\graph\\new\\bbbc041_graphs.pt",
+    "OUT_DIR": "D:\\Research\\Topics\\www\\Datasets\\malaria\\malaria\\model output\\new",
+    "EPOCHS": 200,
+    "BATCH_SIZE": 32,
+    "HIDDEN_DIM": 128,
+    "NODE_TYPE_EMB": 8,
+    "EDGE_TYPE_EMB": 8,
+    "VAL_RATIO": 0.2,
+    "EARLY_STOP": 201,
+    "CLASS_WEIGHT": true,
+    "SEED": 42,
+    "DEVICE": "cuda",
+    "EXPLAIN_ON_VAL_K": 5,
+    "SAVE_HTML": true
+  },
+  "val_metrics": {
+    "acc": 0.849624060150376,
+    "loss": 1.0576119704378977
+  },
+  "explained_indices": [
+    637,
+    94,
+    34,
+    1242,
+    262
+  ]
+}
